@@ -1,5 +1,5 @@
 # naiTor
-
+https://naitor.onrender.com/
 Stremio addon tìm torrent + phụ đề từ nhiều nguồn, hỗ trợ debrid để stream nhanh hơn và AI dịch phụ đề khi thiếu.
 
 **Cài đặt:** https://naitor.onrender.com/configure
